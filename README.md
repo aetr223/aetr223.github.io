@@ -11,4 +11,4 @@ Stay tuned for more!</p>
 </body>
 </html>
 
-<img src="mapofworld.jpeg" alt="Mapoftheworld" width="104" height="142"> 
+<img src="mapofworld.jpeg" alt="http://previews.123rf.com/images/siloto/siloto1209/siloto120900008/15492010-Vintage-map-of-the-world-in-grunge-style-Stock-Photo-old.jpg" width="104" height="142"> 
